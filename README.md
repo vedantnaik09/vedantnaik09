@@ -31,7 +31,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://static.wikia.nocookie.net/evade-nextbot/images/b/b5/Nerd.png/revision/latest?cb=20220822144117" alt="Nerd" />
+ <img align="right" width="100" src="https://static.wikia.nocookie.net/evade-nextbot/images/b/b5/Nerd.png/revision/latest?cb=20220822144117" alt="Nerd" />
   
  ✌️ &emsp; My journey in the world of tech began in my school days since there was java in our curriculum, and since then, I've been on a relentless quest to turn ideas into reality through code. <br/><br/>
  ❤️ &emsp;My expertise lies in Web Dev, App Dev, Image Editing, Video Editing and 3D Modelling, and I thrive on tackling complex problems head-on.<br/><br/>
